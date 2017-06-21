@@ -1,4 +1,4 @@
-**Entity MovEstoque**
+**Entity ProdutosEstoqueRevs**
 ----
   Revições de estoque.
 
